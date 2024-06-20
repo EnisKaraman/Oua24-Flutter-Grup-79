@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım X
+Oua24 Flutter Grup 79
 
 # Ürün İle İlgili Bilgiler
 
