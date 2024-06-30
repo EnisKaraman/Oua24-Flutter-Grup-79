@@ -6,9 +6,11 @@ Oua24 Flutter Grup 79
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Selcan Özbayrak: Product Owner
+- Muhammed Enis Karaman: Scrum Master
+- Rumeysa Uyar: Team Member/Developer
+- Seda Nur Güler: Team Member/Developer
+- Murat Meral: Team Member/Developer
 
 ## Ürün İsmi
 
