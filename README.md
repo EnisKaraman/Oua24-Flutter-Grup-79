@@ -31,18 +31,18 @@ Chore Master ile evinizdeki düzeni ve verimliliği artırın. Tüm ev işleri t
 
 ## Ürün Özellikleri
 
-•	Görev oluşturma ve atama
-•	Görevlerin tamamlanma durumunu takip etme
-•	Görevler için hatırlatıcılar ve bildirimler
-•	Görevleri tarih ve öncelik sırasına göre sıralama
-•	Görevler için notlar ve detaylar ekleme
+-	Görev oluşturma ve atama
+-	Görevlerin tamamlanma durumunu takip etme
+-	Görevler için hatırlatıcılar ve bildirimler
+-	Görevleri tarih ve öncelik sırasına göre sıralama
+-	Görevler için notlar ve detaylar ekleme
 
 ## Hedef Kitle
 
-•	Aileler
-•	Ev arkadaşları
-•	Küçük ekipler
-•	18 - 65 yaş arası kullanıcılar
+-	Aileler
+-	Ev arkadaşları
+-	Küçük ekipler
+-	18 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
@@ -74,17 +74,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint Review**: 
 Alınan kararlar:
-•	Projenin ismine karar verildi, sprint içeriklerine karar verildi, ilk sprint için görevler ve kullanıcı hikayeleri oluşturuldu.
-•	Görev görüntüleme başarıyla tamamlanmıştır.
-•	Görevlerin kalan zaman durumunu takip etme özelliği eklenmiştir.
-•	Hatırlatıcılar ve bildirimler özelliği için temel yapı oluşturulmuştur.
+-	Projenin ismine karar verildi, sprint içeriklerine karar verildi, ilk sprint için görevler ve kullanıcı hikayeleri oluşturuldu.
+-	Görev görüntüleme başarıyla tamamlanmıştır.
+-	Görevlerin kalan zaman durumunu takip etme özelliği eklenmiştir.
+-	Hatırlatıcılar ve bildirimler özelliği için temel yapı oluşturulmuştur.
 Sprint Review katılımcıları: Selcan Özbayrak, Muhammed Enis Karaman, Rumeysa Uyar, Seda Nur Güler, Murat Meral.
 
 - **Sprint Retrospective:**
-•	Görevlerin önceliklendirilmesiyle ilgili düzenleme yapılması kararı alınmıştır.
-•	Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
-•	Takım üyeleri arasında iyi bir iletişim sağlandı ve planlanan görevler başarıyla tamamlandı.
-•	Test süreçleri için daha fazla zaman ayrılmalı.
+-	Görevlerin önceliklendirilmesiyle ilgili düzenleme yapılması kararı alınmıştır.
+-	Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
+-	Takım üyeleri arasında iyi bir iletişim sağlandı ve planlanan görevler başarıyla tamamlandı.
+-	Test süreçleri için daha fazla zaman ayrılmalı.
 
 ---
 
