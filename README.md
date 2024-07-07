@@ -64,10 +64,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting.docx?raw=true)
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları:
+  
 ![Backlog 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Bootcamp_2024_Grup79_Sprint1.jpg) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+  
   ![Screenshot 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/1.png)
   ![Screenshot 2](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/2.png)
   ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/3.png)
