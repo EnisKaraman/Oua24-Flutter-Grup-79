@@ -73,18 +73,18 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/3.png)
 
 - **Sprint Review**: 
-Alınan kararlar:
--	Projenin ismine karar verildi, sprint içeriklerine karar verildi, ilk sprint için görevler ve kullanıcı hikayeleri oluşturuldu.
--	Görev görüntüleme başarıyla tamamlanmıştır.
--	Görevlerin kalan zaman durumunu takip etme özelliği eklenmiştir.
--	Hatırlatıcılar ve bildirimler özelliği için temel yapı oluşturulmuştur.
-Sprint Review katılımcıları: Selcan Özbayrak, Muhammed Enis Karaman, Rumeysa Uyar, Seda Nur Güler, Murat Meral.
+ Alınan kararlar:
+  -	Projenin ismine karar verildi, sprint içeriklerine karar verildi, ilk sprint için görevler ve kullanıcı hikayeleri oluşturuldu.
+  -	Görev görüntüleme başarıyla tamamlanmıştır.
+  -	Görevlerin kalan zaman durumunu takip etme özelliği eklenmiştir.
+  -	Hatırlatıcılar ve bildirimler özelliği için temel yapı oluşturulmuştur.
+ Sprint Review katılımcıları: Selcan Özbayrak, Muhammed Enis Karaman, Rumeysa Uyar, Seda Nur Güler, Murat Meral.
 
 - **Sprint Retrospective:**
--	Görevlerin önceliklendirilmesiyle ilgili düzenleme yapılması kararı alınmıştır.
--	Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
--	Takım üyeleri arasında iyi bir iletişim sağlandı ve planlanan görevler başarıyla tamamlandı.
--	Test süreçleri için daha fazla zaman ayrılmalı.
+  -	Görevlerin önceliklendirilmesiyle ilgili düzenleme yapılması kararı alınmıştır.
+  -	Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
+  -	Takım üyeleri arasında iyi bir iletişim sağlandı ve planlanan görevler başarıyla tamamlandı.
+  -	Test süreçleri için daha fazla zaman ayrılmalı.
 
 ---
 
