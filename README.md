@@ -62,7 +62,7 @@ Chore Master ile evinizdeki düzeni ve verimliliği artırın. Tüm ev işleri t
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Bootcamp_2024_Grup79_Sprint1.jpg) 
