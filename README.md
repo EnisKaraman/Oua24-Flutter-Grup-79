@@ -107,6 +107,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/6.png)
   ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/7.png)
   ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/8.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/9.png)
 
 - **Sprint Review**: 
     Alınan kararlar:
