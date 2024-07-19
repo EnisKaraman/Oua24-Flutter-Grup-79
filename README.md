@@ -111,9 +111,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint Review**: 
     Alınan kararlar:
+  - Tasarımda güncellemeye gidilmiştir.
   - Görev ekleme ve güncelleme özelliği eklenmiştir.
   - Görevlere kullanıcı atama ve görev açıklaması ekleme özelliği eklenmiştir. 
-  - Görevler için hatırlatıcılar ve bildirimler eklenmiştir.
   - Görevlerin tarih ve öncelik sırasına göre sıralanabilmesi sağlanmıştır.
   - Görev detayları özelliği geliştirilmiştir.
 
