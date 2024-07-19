@@ -93,6 +93,37 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 2
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprintin 120 puan ile devam etmesi gerektiğine karar verildi.
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting2.docx?raw=true)
+- **Sprint board update**: Sprint board screenshotları:
+  
+![Backlog 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Bootcamp_2024_Grup79_Sprint2.jpg) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  
+  ![Screenshot 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/4.png)
+  ![Screenshot 2](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/5.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/6.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/7.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/8.png)
+
+- **Sprint Review**: 
+    Alınan kararlar:
+  - Görev ekleme ve güncelleme özelliği eklenmiştir.
+  - Görevlere kullanıcı atama ve görev açıklaması ekleme özelliği eklenmiştir. 
+  - Görevler için hatırlatıcılar ve bildirimler eklenmiştir.
+  - Görevlerin tarih ve öncelik sırasına göre sıralanabilmesi sağlanmıştır.
+  - Görev detayları özelliği geliştirilmiştir.
+
+- Sprint Review katılımcıları: Selcan Özbayrak, Muhammed Enis Karaman, Rumeysa Uyar, Seda Nur Güler, Murat Meral.
+
+- **Sprint Retrospective:**
+  - Sprint planlama sürecinde daha fazla iş birliği sağlanmalı.
+  - Zaman yönetimi konusunda daha etkili stratejiler geliştirilmesi gerektiği kararlaştırıldı.
+  - Kod kalitesi ve test süreçlerine daha fazla önem verilmesi gerektiği kararlaştırıldı.
+  - Görev eklendiği zaman aynı görevi 2 kere ekleme sorunun diğer sprintte çözülmesi gerekmektedir.
+
 
 ---
 
