@@ -33,7 +33,6 @@ Chore Master ile evinizdeki düzeni ve verimliliği artırın. Tüm ev işleri t
 
 -	Görev oluşturma ve atama
 -	Görevlerin tamamlanma durumunu takip etme
--	Görevler için hatırlatıcılar ve bildirimler
 -	Görevleri tarih ve öncelik sırasına göre sıralama
 -	Görevler için notlar ve detaylar ekleme
 
@@ -130,4 +129,40 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 3
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprintin 120 puan ile son bulması gerektiğine karar verildi.
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting3.docx?raw=true)
+- **Sprint board update**: Sprint board screenshotları:
+  
+![Backlog 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Bootcamp_2024_Grup79_Sprint3.jpg) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  
+  ![Screenshot 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/11.png)
+  ![Screenshot 2](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/10.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/12.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/13.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/14.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/15.png)
+  ![Screenshot 3](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/16.png)
+
+- **Sprint Review**: 
+    Alınan kararlar:
+  - Tüm görev özellikleri entegre edilmiştir.
+  - Aynı görevi iki kere ekleme hatası giderilmiştir.
+  - Görev detayları göreve tıklandığı zaman ayrı bir ekranda gözükmesi sağlanmıştır.
+  - Tamamlanmış görevler sayfası eklenerek kullanıcı tamamlamış olduğu görevleri görebilmesi sağlanmıştır.
+  - Profil sayfası ve kullanıcıların tamamlamış olduğu görev sayısı ile en çok görev tamamlayan kişiden, en az görev tamamlayan kişiye doğru sıralandığı bir toplist eklenmiştir.
+  - Kullanıcı arayüzü iyileştirilmiş ve kullanıcı deneyimi optimize edilmiştir.
+  - Uygulama genel testlerden geçmiştir ve kararlı bir sürüm olarak hazır hale getirilmiştir.
+
+- Sprint Review katılımcıları: Selcan Özbayrak, Muhammed Enis Karaman, Rumeysa Uyar, Seda Nur Güler, Murat Meral.
+
+- **Sprint Retrospective:**
+  - Proje sürecinde takım içi iletişimin güçlü olduğu görülmüştür.
+  - Gelecek projeler için daha sık kullanıcı testleri yapılmasına karar verilmiştir.
+  - Kod kalitesi ve test süreçlerine daha fazla önem verilmesi gerektiği kararlaştırıldı.
+  - Takım üyelerinin performansı ve iş birliği değerlendirilmiş, olumlu geri bildirimler verilmiştir.
+
+  
 ---
