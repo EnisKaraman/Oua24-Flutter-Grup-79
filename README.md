@@ -14,20 +14,19 @@ Oua24 Flutter Grup 79
 
 ## Ürün İsmi
 
---Chore Master--
+--Chores Master--
 
 ## Ürün Açıklaması
 
-Chore Master: Evinizdeki İşleri Kolayca Yönetin
-Chore Master, ev işlerinin ve görevlerin kolayca takip edilmesini sağlayan yenilikçi bir uygulamadır. Kullanıcı dostu arayüzü ve güçlü özellikleri ile ev işlerini yönetmeyi hiç olmadığı kadar basit ve verimli hale getirir. İşte Chore Master 'ın sunduğu başlıca özellikler:
+Chores Master: Evinizdeki İşleri Kolayca Yönetin
+Chores Master, ev işlerinin ve görevlerin kolayca takip edilmesini sağlayan yenilikçi bir uygulamadır. Kullanıcı dostu arayüzü ve güçlü özellikleri ile ev işlerini yönetmeyi hiç olmadığı kadar basit ve verimli hale getirir.<br> <br>İşte Chores Master'ın sunduğu başlıca özellikler:
 1.	Görev Dağıtımı ve Takibi: Evdeki tüm işleri görevler halinde organize edin ve belirli kişilere atayın. Herkes kendi görevlerini kolayca görebilir ve zamanında tamamlamak için uyarılar alır.
-2.	Bildirim ve Hatırlatıcılar: Görevlerin zamanında tamamlanmasını sağlamak için düzenli bildirimler ve hatırlatıcılar alın. Bu sayede hiçbir iş unutulmaz ve tüm işler zamanında yapılır.
-3.	Tamamlanan Görevlerin İşaretlenmesi: Görevler tamamlandıkça kolayca işaretleyin ve ev halkının başarılarını takip edin. Tamamlanan görevler, evin genel düzenini ve temizliğini sürekli olarak kontrol altında tutmanızı sağlar.
-4.	Genel Bakış ve Raporlama: Tüm ev halkının görev durumu hakkında genel bir bakış sağlayan raporlar ile hangi işlerin tamamlandığını, hangi işlerin devam ettiğini ve kimin hangi görevden sorumlu olduğunu kolayca takip edin. Bu sayede evdeki işler her zaman kontrol altında olur.
-5.	Kullanıcı Dostu Arayüz: Basit ve sezgisel arayüzümüz sayesinde herkes kolayca görev ekleyebilir, düzenleyebilir ve takip edebilir. Chore Master, teknolojiye aşina olmayan kullanıcılar için bile kullanımı son derece kolaydır.
-6.	Çoklu Dil Desteği: Chore Master, çoklu dil desteği ile evinizdeki herkesin uygulamayı kendi dilinde kullanmasını sağlar. Bu sayede dil bariyerleri ortadan kalkar ve herkes görevlerini rahatlıkla takip edebilir.
-7.	Esnek Görev Tanımlamaları: Görevlerinizi istediğiniz gibi özelleştirin. Görev detaylarına açıklamalar ekleyin, öncelik seviyelerini belirleyin ve ihtiyaçlarınıza göre esnek görev tanımlamaları yapın.
-Chore Master ile evinizdeki düzeni ve verimliliği artırın. Tüm ev işleri tek bir yerden kolayca yönetilirken, herkes sorumluluklarını yerine getirir ve eviniz daha düzenli ve huzurlu bir yer haline gelir. Chore Master, ev işlerini organize etmek için ihtiyacınız olan tek uygulama!
+2.	Tamamlanan Görevlerin İşaretlenmesi: Görevler tamamlandıkça kolayca işaretleyin ve ev halkının başarılarını takip edin. Tamamlanan görevler, evin genel düzenini ve temizliğini sürekli olarak kontrol altında tutmanızı sağlar.
+3.	Genel Bakış ve Raporlama: Tüm ev halkının görev durumu hakkında genel bir bakış sağlayan raporlar ile hangi işlerin tamamlandığını, hangi işlerin devam ettiğini ve kimin hangi görevden sorumlu olduğunu kolayca takip edin. Bu sayede evdeki işler her zaman kontrol altında olur.
+4.	Kullanıcı Dostu Arayüz: Basit ve sezgisel arayüzümüz sayesinde herkes kolayca görev ekleyebilir, düzenleyebilir ve takip edebilir. Chores Master, teknolojiye aşina olmayan kullanıcılar için bile kullanımı son derece kolaydır.
+5.	Çoklu Dil Desteği: Chores Master, çoklu dil desteği ile evinizdeki herkesin uygulamayı kendi dilinde kullanmasını sağlar. Bu sayede dil bariyerleri ortadan kalkar ve herkes görevlerini rahatlıkla takip edebilir.
+6.	Esnek Görev Tanımlamaları: Görevlerinizi istediğiniz gibi özelleştirin. Görev detaylarına açıklamalar ekleyin, öncelik seviyelerini belirleyin ve ihtiyaçlarınıza göre esnek görev tanımlamaları yapın.
+Chores Master ile evinizdeki düzeni ve verimliliği artırın. Tüm ev işleri tek bir yerden kolayca yönetilirken, herkes sorumluluklarını yerine getirir ve eviniz daha düzenli ve huzurlu bir yer haline gelir. Chores Master, ev işlerini organize etmek için ihtiyacınız olan tek uygulama!
 
 ## Ürün Özellikleri
 
