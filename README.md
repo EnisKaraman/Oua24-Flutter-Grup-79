@@ -93,7 +93,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprintin 120 puan ile devam etmesi gerektiğine karar verildi.
-- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting2.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting2.docx?raw=true)
 - **Sprint board update**: Sprint board screenshotları:
   
 ![Backlog 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Bootcamp_2024_Grup79_Sprint2.jpg) 
@@ -130,7 +130,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprintin 120 puan ile son bulması gerektiğine karar verildi.
-- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting3.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Meeting3.docx?raw=true)
 - **Sprint board update**: Sprint board screenshotları:
   
 ![Backlog 1](https://github.com/EnisKaraman/Oua24-Flutter-Grup-79/blob/main/Project_document/Bootcamp_2024_Grup79_Sprint3.jpg) 
