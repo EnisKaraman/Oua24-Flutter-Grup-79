@@ -6,8 +6,8 @@ Oua24 Flutter Grup 79
 
 ## Takım Elemanları
 
-- Selcan Özbayrak: Product Owner
-- Muhammed Enis Karaman: Scrum Master
+- Selcan Özbayrak: Product Owner/Developer
+- Muhammed Enis Karaman: Scrum Master/Developer
 - Rumeysa Uyar: Team Member/Developer
 - Seda Nur Güler: Team Member/Developer
 - Murat Meral: Team Member/Developer
